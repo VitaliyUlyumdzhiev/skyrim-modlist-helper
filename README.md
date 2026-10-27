@@ -399,9 +399,5 @@ Nexus Mods:
 
 https://www.nexusmods.com/skyrimspecialedition
 
-Документация REST API:
-
-https://api.nexusmods.com/v1
-
 Проект не является официальным сервисом Nexus Mods.
 Тексты кратких демонстрационных описаний подготовлены для учебного проекта.
