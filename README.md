@@ -390,6 +390,12 @@ python -m pytest -v
 sudo nginx -t
 ```
 
+Получение категорий:
+
+```bash
+curl http://localhost:8080/categories
+```
+
 Для проверки именно конфигурации из репозитория предварительно
 скопировать deploy/nginx.conf в /etc/nginx/conf.d/.
 
@@ -398,10 +404,6 @@ sudo nginx -t
 Nexus Mods:
 
 https://www.nexusmods.com/skyrimspecialedition
-
-Документация REST API:
-
-https://api.nexusmods.com/v1
 
 Проект не является официальным сервисом Nexus Mods.
 Тексты кратких демонстрационных описаний подготовлены для учебного проекта.
